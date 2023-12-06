@@ -4,7 +4,7 @@ Data Analyst
 En vous basant sur les données fournies, vous devez aider Monsieur Arnaud qui a comme projet d'installer une concession automobile dans la ville de Frankfort.
 Monsieur Arnaud a fait une etude de marché sur la population de Frankfort et elle definit cette population de relativement aisée. 
 
-Les données : https://mohamed-demo-neosoft.s3.us-east-2.amazonaws.com/cleaned_autos.csv
+Les données : https://drive.google.com/file/d/1zwWoeGJSLnaA_xX_dBwuyTjrTN_F_er_/view?usp=drive_link 
 
 Il vous a mis à disposition un certain volume de donnée, il voudrait que vous l'aidiez, dans un premier temps, à extraire un certain nombre d'informations des données : 
 
